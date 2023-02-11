@@ -2,9 +2,9 @@
 
 
 Console.Write("Введите первое число ");
-int number = int.Parse(Console.ReadLine());
+int number = int.Parse(Console.ReadLine()!);
 Console.Write("Введите второе число ");
-int number2 = int.Parse(Console.ReadLine());
+int number2 = int.Parse(Console.ReadLine()!);
 if (number > number2){
     Console.WriteLine(number + "больше чем" + number2);
 }
