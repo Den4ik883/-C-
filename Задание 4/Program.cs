@@ -11,9 +11,9 @@ int max = x;
 if(x > y){
     Console.WriteLine("Максимальное число" + x);
 }
-if(y > b){
-    Console.WriteLine("Максимальное число" + y);
-}
+//if(y > b){
+//    Console.WriteLine("Максимальное число" + y);
+//}
 else{
     Console.WriteLine("Максимальное число" + b);
 }

@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Git\Практика\№9\Практика\bin\Debug\net7.0\Практика.exe
+C:\Users\User\Desktop\Git\Практика\№9\Практика\bin\Debug\net7.0\Практика.deps.json
+C:\Users\User\Desktop\Git\Практика\№9\Практика\bin\Debug\net7.0\Практика.runtimeconfig.json
+C:\Users\User\Desktop\Git\Практика\№9\Практика\bin\Debug\net7.0\Практика.dll
+C:\Users\User\Desktop\Git\Практика\№9\Практика\bin\Debug\net7.0\Практика.pdb
+C:\Users\User\Desktop\Git\Практика\№9\Практика\obj\Debug\net7.0\Практика.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Git\Практика\№9\Практика\obj\Debug\net7.0\Практика.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Git\Практика\№9\Практика\obj\Debug\net7.0\Практика.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Git\Практика\№9\Практика\obj\Debug\net7.0\Практика.AssemblyInfo.cs
+C:\Users\User\Desktop\Git\Практика\№9\Практика\obj\Debug\net7.0\Практика.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Git\Практика\№9\Практика\obj\Debug\net7.0\Практика.dll
+C:\Users\User\Desktop\Git\Практика\№9\Практика\obj\Debug\net7.0\refint\Практика.dll
+C:\Users\User\Desktop\Git\Практика\№9\Практика\obj\Debug\net7.0\Практика.pdb
+C:\Users\User\Desktop\Git\Практика\№9\Практика\obj\Debug\net7.0\Практика.genruntimeconfig.cache
+C:\Users\User\Desktop\Git\Практика\№9\Практика\obj\Debug\net7.0\ref\Практика.dll
