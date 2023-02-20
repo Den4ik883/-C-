@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Git\Практика\№9\Массивы\obj\Debug\net7.0\Массивы.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Git\Практика\№9\Массивы\obj\Debug\net7.0\Массивы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Git\Практика\№9\Массивы\obj\Debug\net7.0\Массивы.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Git\Практика\№9\Массивы\obj\Debug\net7.0\Массивы.AssemblyInfo.cs
+C:\Users\User\Desktop\Git\Практика\№9\Массивы\obj\Debug\net7.0\Массивы.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Git\Практика\№9\Массивы\bin\Debug\net7.0\Массивы.exe
+C:\Users\User\Desktop\Git\Практика\№9\Массивы\bin\Debug\net7.0\Массивы.deps.json
+C:\Users\User\Desktop\Git\Практика\№9\Массивы\bin\Debug\net7.0\Массивы.runtimeconfig.json
+C:\Users\User\Desktop\Git\Практика\№9\Массивы\bin\Debug\net7.0\Массивы.dll
+C:\Users\User\Desktop\Git\Практика\№9\Массивы\bin\Debug\net7.0\Массивы.pdb
+C:\Users\User\Desktop\Git\Практика\№9\Массивы\obj\Debug\net7.0\Массивы.dll
+C:\Users\User\Desktop\Git\Практика\№9\Массивы\obj\Debug\net7.0\refint\Массивы.dll
+C:\Users\User\Desktop\Git\Практика\№9\Массивы\obj\Debug\net7.0\Массивы.pdb
+C:\Users\User\Desktop\Git\Практика\№9\Массивы\obj\Debug\net7.0\Массивы.genruntimeconfig.cache
+C:\Users\User\Desktop\Git\Практика\№9\Массивы\obj\Debug\net7.0\ref\Массивы.dll
