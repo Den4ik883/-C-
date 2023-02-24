@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Git\Практика\№9\Домашнее задание2\obj\Debug\net7.0\Домашнее задание2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Git\Практика\№9\Домашнее задание2\obj\Debug\net7.0\Домашнее задание2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Git\Практика\№9\Домашнее задание2\obj\Debug\net7.0\Домашнее задание2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Git\Практика\№9\Домашнее задание2\obj\Debug\net7.0\Домашнее задание2.AssemblyInfo.cs
+C:\Users\User\Desktop\Git\Практика\№9\Домашнее задание2\obj\Debug\net7.0\Домашнее задание2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Git\Практика\№9\Домашнее задание2\bin\Debug\net7.0\Домашнее задание2.exe
+C:\Users\User\Desktop\Git\Практика\№9\Домашнее задание2\bin\Debug\net7.0\Домашнее задание2.deps.json
+C:\Users\User\Desktop\Git\Практика\№9\Домашнее задание2\bin\Debug\net7.0\Домашнее задание2.runtimeconfig.json
+C:\Users\User\Desktop\Git\Практика\№9\Домашнее задание2\bin\Debug\net7.0\Домашнее задание2.dll
+C:\Users\User\Desktop\Git\Практика\№9\Домашнее задание2\bin\Debug\net7.0\Домашнее задание2.pdb
+C:\Users\User\Desktop\Git\Практика\№9\Домашнее задание2\obj\Debug\net7.0\Домашнее задание2.dll
+C:\Users\User\Desktop\Git\Практика\№9\Домашнее задание2\obj\Debug\net7.0\refint\Домашнее задание2.dll
+C:\Users\User\Desktop\Git\Практика\№9\Домашнее задание2\obj\Debug\net7.0\Домашнее задание2.pdb
+C:\Users\User\Desktop\Git\Практика\№9\Домашнее задание2\obj\Debug\net7.0\Домашнее задание2.genruntimeconfig.cache
+C:\Users\User\Desktop\Git\Практика\№9\Домашнее задание2\obj\Debug\net7.0\ref\Домашнее задание2.dll
